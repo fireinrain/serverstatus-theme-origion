@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "src": "/report",
+      "dest": "https://servers.131433.xyz/report"
+    },
+    {
+      "src": "/json/stats.json",
+      "dest": "https://servers.131433.xyz/json/stats.json"
+    },
+    {
+      "src": "/detail",
+      "dest": "https://servers.131433.xyz/detail"
+    },
+    {
+      "src": "/map",
+      "dest": "https://servers.131433.xyz/map"
+    },
+    {
+      "src": "/i",
+      "dest": "https://servers.131433.xyz/i"
+    }
+  ]
+}
